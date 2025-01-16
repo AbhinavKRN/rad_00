@@ -22,8 +22,8 @@ A RESTful API built with FastAPI and MongoDB for user management operations.
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/AbhinavKRN/rad_00.git
+cd rad_00
 ```
 
 2. Create and activate virtual environment:
